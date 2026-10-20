@@ -1,5 +1,14 @@
 # Architecturing-LR3
 
+To run:
+```
+cd compose
+docker-compose up .
+```
+
+In browser open to enter RabbitMQ web-UI:
+```http://localhost:15671```
+
 Direct exchange with binding to my queue.
 ![alt text](images/image.png)
 
